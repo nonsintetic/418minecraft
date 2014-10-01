@@ -1,0 +1,1 @@
+Resource packs are only available through the launcher.
